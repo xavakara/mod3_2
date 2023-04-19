@@ -1,0 +1,30 @@
+<h1 class="article-title">Captain America(Капитан Америка)</h1>
+<div class="item-characteristic">
+    <fieldset class="item-fieldgroup">
+        <legend>характеристики персонажа</legend>
+            <div class="field field-name-field-hero-main-picture field-type-image field-label-hidden">
+                <a href="https://www.strangearts.ru/sites/default/files/heroes/catalog/images/cap_america.jpg"><img src="https://www.strangearts.ru/sites/default/files/styles/heroes_main_picture/public/heroes/catalog/images/cap_america.jpg" width="300" height="455" alt=""></a></div>
+
+            <p><span class="field-list">Настоящее имя:</span> Стивен Грант Роджерс</p>  <p><span class="field-list">Прозвища:</span> </p><p>Стив Роджерс, Кэп, Крыльеголовый, Страж Свободы, Роджер Стивенс, Живая Легенда, Блондин, Оружие I, Суперсолдат, Проект Бруклина, Натан Хэйл, Стиви, Бретт Хендрик, Грэнни, Энтони Шварц, Номад, Кэп-Волк, Главный Коп.</p>
+            <p></p>  <p><span class="field-list">Текущее прозвище:</span> Капитан Америка</p>  <p><span class="field-list">Личность:</span> Общеизвестна</p>  <p><span class="field-list">Вселенная:</span> <a href="/vselennye/zemlya-616">Земля-616 (Mainstream)</a></p>  <p><span class="field-list">Пол:</span> Мужской</p>  <p><span class="field-list">Позиция:</span> Добро</p>  <p><span class="field-list">Рост:</span> 189 см (6'2 фута)</p>  <p><span class="field-list">Вес:</span> 108 кг (240 фунтов)</p>  <p><span class="field-list">Цвет Глаз:</span> Голубые</p>  <p><span class="field-list">Цвет Волос:</span> Блондин</p>  <p><span class="field-list">Родственники:</span> </p><p>Джозеф Роджерс (отец, скончался), Сара Роджерс (мать, скончалась), безымянный дедушка (скончался)</p>
+            <p></p>  <p><span class="field-list">Принадлежность к Группам:</span> </p><p>Захватчики, Мстители, Тайные Мстители, Новые Мстители, Секретные Мстители, Тайные Защитники, Щ.И.Т., Проект: Возрождение, Армия США, Спасители.</p>
+            <p></p>  <p><span class="field-list">Друзья:</span> </p><p>Джеймс Барнс, Тони Старк.</p>
+            <p></p>    <p><span class="field-list">Враги:</span> </p><p>Красный Череп, Барон Земо.</p>
+            <p></p>  <p><span class="field-list">Дата Рождения:</span> 04.07.1922</p>
+            <p><span class="field-list">Место Рождения:</span> США, Нью-Йорк, Бруклин</p>
+            <p><span class="field-list">Гражданство:</span> Американское</p>
+        </fieldset>
+
+    </div>
+<div class=e38_3>
+    <div class=e20_35>
+        <div class="e20_4"></div>
+        <div class=ei41_39_20_28>
+            <div class=ei41_39_20_18>
+                <div class="ei41_39_20_27"></div>
+            </div>
+        </div>
+
+        <div class=e41_40><span  class="ei41_40_20_14">MARVEL</span></div>
+    </div>
+</div>
